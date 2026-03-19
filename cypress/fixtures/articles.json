@@ -1,0 +1,68 @@
+{
+    "articles": [
+        {
+            "slug": "Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1",
+            "title": "Changing this title just because",
+            "description": "Discover Bondar Academy's unique place in the educational landscape, where value-focused and efficient learning approaches converge. Our goal is to rapidly enhance your professional technical skills, boosting your market competitiveness and paving the way for higher-paying job opportunities. The speed of your progress is in your hands – you set the pace, and we provide the solutions and support to help you achieve your desired outcomes.",
+            "body": "Bondar Academy is a leading platform for efficient education, designed to boost your technical skills and advance your career in Quality Assurance (QA). Our program features a balanced mix of pre-recorded lectures and live sessions, allowing each student to study at their own pace and at a time that suits them. \n\nOur instructors are readily available on our Slack Workspace for support. Whether it's a quick question or a more complex issue requiring a Zoom call or Slack Huddle for screen sharing and live discussion, we're here to assist. Additionally, each class comes with a comprehensive question bank for self-assessment. Following each lecture, you have the opportunity to validate your understanding and readiness to progress to the next topic. You set the pace, and we provide the solutions to ensure you achieve your desired outcomes.\n\nSignUp today: https://www.bondaracademy.com",
+            "tagList": [
+                "qa career",
+                "Bondar Academy",
+                "QA Skills",
+                "Value-Focused"
+            ],
+            "createdAt": "2024-01-27T21:52:32.682Z",
+            "updatedAt": "2024-01-27T21:52:32.682Z",
+            "favorited": false,
+            "favoritesCount": 1813,
+            "author": {
+                "username": "Artem Bondar",
+                "bio": null,
+                "image": "https://storage.googleapis.com/bondar-academy-visuals/Android.png",
+                "following": false
+            }
+        },
+        {
+            "slug": "Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1",
+            "title": "Engaging in Live Zoom Sessions: Interact with Instructors and Peers, Ask Questions in Real-Time",
+            "description": "In our increasingly online world, personal engagement remains a crucial element of effective learning. At Bondar Academy, we address this by hosting live Zoom sessions. These sessions provide a platform for live interaction between instructors and students, and among students themselves. Complementing our Slack channel, these live sessions offer an additional avenue for asking questions and engaging in meaningful discussions.",
+            "body": "In our increasingly online world, personal engagement remains a crucial element of effective learning. \nAt Bondar Academy, we address this by hosting live Zoom sessions. These sessions provide a platform for live interaction between instructors and students and among students themselves. Complementing our Slack channel, these live sessions offer an additional avenue for asking questions and engaging in meaningful discussions.",
+            "tagList": [
+                "Zoom",
+                "Live Sessions"
+            ],
+            "createdAt": "2024-01-27T21:39:50.587Z",
+            "updatedAt": "2024-01-27T21:39:50.587Z",
+            "favorited": false,
+            "favoritesCount": 75,
+            "author": {
+                "username": "Artem Bondar",
+                "bio": null,
+                "image": "https://storage.googleapis.com/bondar-academy-visuals/Android.png",
+                "following": false
+            }
+        },
+        {
+            "slug": "Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1",
+            "title": "Utilizing Slack for Continuous Engagement: Connect with Instructors, Share Insights, and Collaborate",
+            "description": "Slack stands out as a widely-used messaging and collaboration platform, celebrated for its convenience and versatility. It enables simultaneous participation in multiple conversations, supports comments and emoji reactions, and allows users to share screenshots, videos, and code snippets. Its functionality extends to making calls in huddle sessions. Given these robust features, Bondar Academy has chosen Slack as our primary communication platform, facilitating seamless interaction and collaboration.",
+            "body": "As a new member of Bondar Academy, one of your initial steps should be registering for the Bondar Academy Slack Workspace. Upon registration at Bondar Academy, you'll receive a welcome email containing the URL to join. This Workspace serves as a central hub for communication with instructors and fellow students. Whether you have a question, need to share code, or want to upload screenshots, Slack makes it easy and efficient. Moreover, its compatibility with both desktop and mobile devices, by downloading and installing the app, ensures you can stay connected with your instructors and the community wherever you go.",
+            "tagList": [
+                "Slack",
+                "Community",
+                "Collaboration"
+            ],
+            "createdAt": "2024-01-27T21:38:27.992Z",
+            "updatedAt": "2024-01-27T21:38:27.992Z",
+            "favorited": false,
+            "favoritesCount": 70,
+            "author": {
+                "username": "Artem Bondar",
+                "bio": null,
+                "image": "https://storage.googleapis.com/bondar-academy-visuals/Android.png",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 10
+}
